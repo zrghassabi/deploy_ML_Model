@@ -15,3 +15,8 @@ There are two methods of configuring the application deployment covered here: us
 https://cloud.ibm.com/docs/cli?topic=cli-getting-started
 
 https://cloud.ibm.com/docs/cli/index.html
+
+
+Deploy a model using docker
+
+https://medium.com/@tannerwyork/deploying-machine-learning-models-with-docker-4715b7cc6746
