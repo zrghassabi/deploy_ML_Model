@@ -1,0 +1,9 @@
+
+
+ ---
+ applications:
+ - name: MLModelAPI
+   random-route: true
+   buildpack: python_buildpack
+   command: python app.py
+   memory: 256M
